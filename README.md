@@ -14,7 +14,7 @@ __final effect on PC:__
   <img src="http://preview.ibb.co/cyYz9c/final_effect_in_i_Pad_Pro.png" width="573" height="546"  alt="homepage screenshot" border="0">
 </p>
 
-__See final Web Page at__ [here](https://jinwangq.github.io/Responsive-practice-a-news-homepage/)
+__See final Web Page at__ [here](/)
 
 __Try it on a mobile phone ; )__
 
